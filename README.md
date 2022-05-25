@@ -1,2 +1,2 @@
 # Unique Word finder
-This application finds unique words when given a text document. To use, just drop a text file in src/files
+This application finds unique words when given a text document. To use, just drop a text file in src/files, or use the ones already supplied,
